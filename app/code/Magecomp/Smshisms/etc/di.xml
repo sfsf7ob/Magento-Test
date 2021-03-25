@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+	<type name="Magecomp\Smspro\Helper\Apicall">
+        <arguments>
+            <argument name="smsgatewaylist" xsi:type="array">
+                <item name="hisms" xsi:type="string">Magecomp\Smshisms\Helper\Apicall</item>
+            </argument>
+        </arguments>
+    </type>
+</config>
+

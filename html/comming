@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Comming</title>
+</head>
+<body>
+
+<img src="https://coming.delivery/ads/img/logo1.png" >
+<h1 class="text">!حمل التطبيق الان</h1>
+
+<div class="downlaod">
+      <div class="ios">
+        <a href="https://apps.apple.com/sa/app/coming/id1538244135">
+          <img src="img/store2.png">
+        </a>
+      </div>
+      <div class="android">
+        <a href="https://play.google.com/store/apps/details?id=com.coming.customer">
+          <img src="img/store1.png">
+        </a>
+      </div>
+    </div>
+</body>
+</html>

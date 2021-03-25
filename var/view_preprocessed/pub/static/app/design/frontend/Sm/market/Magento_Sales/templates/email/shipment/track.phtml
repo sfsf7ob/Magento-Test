@@ -1,0 +1,1 @@
+<?php $trackurl = 'https://wwwapps.ups.com/WebTracking/returnToDetails?tracknum='.$_item->getNumber(); ?> <tr><td><?= $block->escapeHtml($_item->getCarrierCode()) ?>:</td><td style="padding:3px 9px"><a href="<?php echo $trackurl ?>"><?php echo $this->escapeHtml($_item->getNumber()) ?></a></td></tr>

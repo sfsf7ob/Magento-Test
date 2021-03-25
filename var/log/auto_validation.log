@@ -1,0 +1,19 @@
+2020-12-08T04:42:34+00:00 INFO (6): Array
+(
+    [Magento2_Ced_SmsaShipping] => Array
+        (
+            [success] => 1
+            [message] => Magento\Framework\Phrase Object
+                (
+                    [text:Magento\Framework\Phrase:private] => Module Activated successfully.
+                    [arguments:Magento\Framework\Phrase:private] => Array
+                        (
+                        )
+
+                )
+
+            [valid] => 1
+        )
+
+)
+
